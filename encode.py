@@ -7,6 +7,6 @@ contenu_source = fichier_source.read()
 #TEST
 print(contenu_source)
 
-
+toto
 
 fichier_source.close()
