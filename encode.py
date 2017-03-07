@@ -14,7 +14,10 @@ print(B.shape)
 C = A.dot(B)%2
 print(C)
 
+D = np.array(matrice_controle)
 
+E = D.dot(C)%2
+print(E)
 
 
 #lecture du fichier source.txt
